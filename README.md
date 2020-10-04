@@ -9,6 +9,7 @@ The process of sniffing out their private API is described in my post:
 
 Nowadays [Instagram has an official API][official] and many 3rd-party web sites
 that do interesting things with people's photos and data.
+And also leak the data ,they are spying the user ..
 
 ## The code
 
